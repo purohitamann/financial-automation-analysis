@@ -1,5 +1,6 @@
 # Financial Automation & Analysis with LLM
 <img width="1367" alt="fa-llm" src="https://github.com/user-attachments/assets/c4a0814f-ba17-4e11-ac73-303f4122d01f">
+<img width="492" alt="llm-2" src="https://github.com/user-attachments/assets/ecd4109b-0ea0-4c95-8418-6cce75ae3143">
 
 ## Overview
 
