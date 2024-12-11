@@ -1,6 +1,12 @@
 # Financial Automation & Analysis with LLM
-<img width="1367" alt="fa-llm" src="https://github.com/user-attachments/assets/c4a0814f-ba17-4e11-ac73-303f4122d01f">
-<img width="492" alt="llm-2" src="https://github.com/user-attachments/assets/ecd4109b-0ea0-4c95-8418-6cce75ae3143">
+<img width="1341" alt="Screenshot 2024-12-11 at 09 24 31" src="https://github.com/user-attachments/assets/0b7d4737-ec08-4680-90ec-caedad8ad2b3" />
+
+
+  <img width="417" alt="Screenshot 2024-12-11 at 09 26 11" src="https://github.com/user-attachments/assets/662f098e-fc3a-42d7-bc79-001d4e6d10f9" />
+<img width="412" alt="Screenshot 2024-12-11 at 09 26 28" src="https://github.com/user-attachments/assets/7d0e7d7a-a49c-4374-b481-72e0d1a7d55b" />
+
+
+
 
 ## Overview
 
